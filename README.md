@@ -1,4 +1,4 @@
-# CMSE 201, "Computational Modeling and Data Analysis 1"
+# CMSE 201: Computational Modeling and Data Analysis 1
 ## Fall 2020
 
 This is the **student Git repository** for CMSE 201. It contains the core materials for the course. This includes (in various directories):
