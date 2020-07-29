@@ -8,6 +8,7 @@ to important course content:
 
 * [Course Syllabus](/course_documents/CMSE201-Syllabus.pdf)
 * [Course Calendar](/course_documents/CMSE201-Calendar.pdf)
+* [Office Hours Schedule](https://link-to-office-hours-schedule)
 
 Course assignments will be distributed via
 [Desire 2 Learn](https://d2l.msu.edu/).
