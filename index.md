@@ -4,7 +4,7 @@
 
 Here are some quick links to important course content:
 
-* [Course Syllabus](/course_documents/CMSE201-Syllabus.pdf)
+* [Course Syllabus](https://docs.google.com/document/u/1/d/e/2PACX-1vQAU4aPPot3h-QnqaD8lXm_UuDB8R9C7ffiNc_bxEsX0jNKZ7hVrehGxUtAQu5Q0_ogVqEFxWO_thzv/pub)
 * [Course Calendar](/course_documents/CMSE201-Calendar.pdf)
 * [Office Hours Schedule](https://cmse.msu.edu/cmse201-office-hours)
 
