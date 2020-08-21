@@ -19,9 +19,9 @@ Additional content for this course may also be uploaded from time to time to the
 ## Instructor Information
 
 ### Section Instructors
-Michael Murillo (Section 001)  
-Professor, Department of Computational Mathematics, Science & Engineering and Department of Chemical Engineering and Materials Science  
-**Email**: [murillom@msu.edu](mailto:murillom@msu.edu)  
+Luciano Silvestri (Section 001)  
+Postdoctoral Research Associate, Department of Computational Mathematics, Science & Engineering 
+**Email**: [silves28@msu.edu](mailto:silves28@msu.edu)  
 
 Alexei Bazavov (Section 002)  
 Assistant Professor, Department of Computational Mathematics, Science & Engineering and Department of Physics & Astronomy  
