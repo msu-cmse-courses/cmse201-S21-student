@@ -19,34 +19,34 @@ Additional content for this course may also be uploaded from time to time to the
 ## Instructor Information
 
 ### Section Instructors
-Luciano Silvestri (Section 001)  
-Postdoctoral Research Associate, Department of Computational Mathematics, Science & Engineering 
-**Email**: [silves28@msu.edu](mailto:silves28@msu.edu)  
+**Luciano Silvestri** (Section 001)  
+Postdoctoral Research Associate, Department of Computational Mathematics, Science & Engineering   
+*Email*: [silves28@msu.edu](mailto:silves28@msu.edu)  
 
-Alexei Bazavov (Section 002)  
+**Alexei Bazavov** (Section 002)  
 Assistant Professor, Department of Computational Mathematics, Science & Engineering and Department of Physics & Astronomy  
-**Email**: [bazavov@msu.edu](mailto:bazavov@msu.edu)  
+*Email*: [bazavov@msu.edu](mailto:bazavov@msu.edu)  
 
-Ekaterina Rapinchuk (Section 003)  
+**Ekaterina Rapinchuk** (Section 003)  
 Assistant Professor, Department of Computational Mathematics, Science & Engineering and Department of Mathematics  
 **Email**: [merkurje@msu.edu](mailto:merkurje@msu.edu) 
 
-Jose Perea (Section 004)  
+**Jose Perea** (Section 004)  
 Assistant Professor, Department of Computational Mathematics, Science & Engineering and Department of Mathematics  
-**Email**: [joperea@msu.edu](mailto:joperea@msu.edu).  
+*Email*: [joperea@msu.edu](mailto:joperea@msu.edu).  
 
-Min Chen (Section 006)  
+**Min Chen** (Section 006)  
 Assistant Professor, Department of Computational Mathematics, Science & Engineering and Department of Earth and Environmental Sciences   
-**Email**: [chenmi22@msu.edu](mailto:chenmi22@msu.edu)  
+*Email*: [chenmi22@msu.edu](mailto:chenmi22@msu.edu)  
 
-Tom Finzell (Section 007)  
+**Tom Finzell** (Section 007)  
 Postdoctoral Research Associate, Department of Computational Mathematics, Science & Engineering  
-**Email**: [finzellt@msu.edu](mailto:finzellt@msu.edu) 
+*Email*: [finzellt@msu.edu](mailto:finzellt@msu.edu) 
 
-Devin W. Silvia (Section 008)  
+**Devin W. Silvia** (Section 008)  
 Director of Undergraduate Studies and Teaching Specialist  
 Department of Computational Mathematics, Science and Engineering    
-**Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
+*Email*: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
 
 ### Teaching Assistants
 Grady McStudent (Section 999), PhD student, Department of Physics and Astronomy  
