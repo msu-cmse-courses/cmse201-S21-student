@@ -18,6 +18,7 @@ General course discussion and assistance will be held in the `#cmse201-f20-help`
 
 Additional content for this course may also be uploaded from time to time to the GitHub repository accessible on the left hand side of this page, so if you're looking for additional information, take a peek over there!
 
+---
 
 ## Instructor Information
 
@@ -79,8 +80,7 @@ Emily Bolger (Section 007),
 ---
 
 ### Learning Assistants
-Jennifer Abel, Annalise Cornell, Carlie Couzens, Adam Dion, Kevin Heim, Emily 
-Jevarjian, Nicole Keller, Alice Krupczak, Madeline Martin, Dylan Mather, Lexi McFall, Bella Said, Sam Tracht
+Jennifer Abel (001), Annalise Cornell (002), Carlie Couzens (003), Adam Dion (001), Kevin Heim (006), Emily Jevarjian (008), Nicole Keller (004), Alice Krupczak (007), Madeline Martin (007), Dylan Mather (003), Lexi McFall (006), Bella Said (004), and Sam Tracht (002)
 
 ---  
 
