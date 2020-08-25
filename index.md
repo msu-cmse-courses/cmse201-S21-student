@@ -12,6 +12,8 @@ Here are some quick links to important course content:
 
 *  [Office Hours Schedule](https://cmse.msu.edu/cmse201-office-hours)
 
+* [Software Setup Guide](/course_documents/SoftwareSetupGuide.pdf)
+
 Course assignments will be distributed via [Desire 2 Learn](https://d2l.msu.edu/).
 
 General course discussion and assistance will be held in the `#cmse201-f20-help` channel on the [CMSE Slack space](https://cmse-courses.slack.com). There are also section specific channels in the format of `#cmse201-###-f20` where "###" corresponds to the section number.
@@ -80,7 +82,7 @@ Emily Bolger (Section 007),
 ---
 
 ### Learning Assistants
-Jennifer Abel (001), Annalise Cornell (002), Carlie Couzens (003), Adam Dion (001), Kevin Heim (006), Emily Jevarjian (008), Nicole Keller (004), Alice Krupczak (007), Madeline Martin (007), Dylan Mather (003), Lexi McFall (006), Bella Said (004), and Sam Tracht (002)
+Jennifer Abel (001), Adam Dion (001), Annalise Cornell (002), Sam Tracht (002), Carlie Couzens (003), Dylan Mather (003), Nicole Keller (004), Bella Said (004), Kevin Heim (006), Lexi McFall (006), Alice Krupczak (007), Madeline Martin (007), and Emily Jevarjian (008). 
 
 ---  
 
