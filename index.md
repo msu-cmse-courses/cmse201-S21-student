@@ -8,7 +8,7 @@ Here are some quick links to important course content:
 
 *  [Course Syllabus](https://docs.google.com/document/u/1/d/e/2PACX-1vQAU4aPPot3h-QnqaD8lXm_UuDB8R9C7ffiNc_bxEsX0jNKZ7hVrehGxUtAQu5Q0_ogVqEFxWO_thzv/pub) [[PDF version](/course_documents/CMSE201_Syllabus_Fall2020.pdf)]
 
-*  [Course Calendar](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTvTvpKpthpNwY6_Wm9BC6tTyKo3iE5WVeZ4aomqV2-6XqDi703YeSj7kmc6TLTkF1AEG92hv5Clw3a/pubhtml?gid=1088757719&single=true)
+*  [Course Calendar](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTvTvpKpthpNwY6_Wm9BC6tTyKo3iE5WVeZ4aomqV2-6XqDi703YeSj7kmc6TLTkF1AEG92hv5Clw3a/pubhtml?gid=1088757719&single=true) [[PDF version](/course_documents/CMSE201-F20-Schedule.pdf)]
 
 *  [Office Hours Schedule](https://cmse.msu.edu/cmse201-office-hours)
 
