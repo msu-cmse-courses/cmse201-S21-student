@@ -12,6 +12,8 @@ Here are some quick links to important course content:
 	* [Section 008 Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vRCuztNN15CzoEbbw_Jy28L2cr6kkjtEMpqsxcPBLER-uM0cjXcJuSUJFmPyiLHDgEY2qIGKihGBWpD/pubhtml?gid=0&single=true)  
 
 *  [Office Hours Schedule](https://cmse.msu.edu/cmse201-office-hours)
+	* The Zoom room for TA/LA help room hours is [here](https://msu.zoom.us/j/93024217364).
+	* Contact your course instructor for their Zoom room for office hours.  
 
 * [Software Setup Guide](/course_documents/SoftwareSetupGuide.pdf)
 
