@@ -6,20 +6,19 @@
 
 Here are some quick links to important course content:  
 
-*  [Course Syllabus](https://docs.google.com/document/u/1/d/e/2PACX-1vQAU4aPPot3h-QnqaD8lXm_UuDB8R9C7ffiNc_bxEsX0jNKZ7hVrehGxUtAQu5Q0_ogVqEFxWO_thzv/pub) [[PDF version](/course_documents/CMSE201_Syllabus_Fall2020.pdf)]
+*  [Course Syllabus](https://docs.google.com/document/d/e/2PACX-1vQ0JWyKjOL_hQaxXUm1MvqpROlCGncaVLkh7LV2gCrS3IK9N8-YsHbWEaRQKBNG4g7uZ5mmHkyA9lC6/pub) [[PDF version](/course_documents/CMSE201_Syllabus_Spring2021.pdf)]
 
-*  [Course Calendar](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTvTvpKpthpNwY6_Wm9BC6tTyKo3iE5WVeZ4aomqV2-6XqDi703YeSj7kmc6TLTkF1AEG92hv5Clw3a/pubhtml?gid=1088757719&single=true) [[PDF version](/course_documents/CMSE201-F20-Schedule.pdf)]
-	* [Section 008 Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vRCuztNN15CzoEbbw_Jy28L2cr6kkjtEMpqsxcPBLER-uM0cjXcJuSUJFmPyiLHDgEY2qIGKihGBWpD/pubhtml?gid=0&single=true)  
+*  [Course Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vTUmj2CMawEU4T039udPLPozpT7ZHLB4ewp_UQhSUi9dijO8-9zuNsuI7jG7klAOqSrF3wvUfv9wsgX/pubhtml?gid=1088757719&single=true) [[PDF version](/course_documents/CMSE201-S21-Schedule.pdf)]
 
 *  [Office Hours Schedule](https://cmse.msu.edu/cmse201-office-hours)
-	* The Zoom room for TA/LA help room hours is [here](https://msu.zoom.us/j/93024217364).
+	* The Zoom room for TA/LA help room hours is [CMSE 201 Office Hours Zoom](https://msu.zoom.us/j/98424310993).
 	* Contact your course instructor for their Zoom room for office hours.  
 
 * [Software Setup Guide](/course_documents/SoftwareSetupGuide.pdf)
 
 Course assignments will be distributed via [Desire 2 Learn](https://d2l.msu.edu/).
 
-General course discussion and assistance will be held in the `#cmse201-f20-help` channel on the [CMSE Slack space](https://cmse-courses.slack.com). There are also section specific channels in the format of `#cmse201-###-f20` where "###" corresponds to the section number.
+General course discussion and assistance will be held in the `#cmse201-s21-help` channel on the [CMSE Slack space](https://cmse-courses.slack.com). There are also section specific channels in the format of `#cmse201-###-s21` where "###" corresponds to the section number.
 
 Additional content for this course may also be uploaded from time to time to the GitHub repository accessible on the left hand side of this page, so if you're looking for additional information, take a peek over there!
 
@@ -30,62 +29,48 @@ Additional content for this course may also be uploaded from time to time to the
 
 ### Section Instructors
 
-**Luciano Silvestri** (Section 001), [silves28@msu.edu](mailto:silves28@msu.edu)  
-Postdoctoral Research Associate, Department of Computational Mathematics, Science & Engineering
+**Adam Alessio** (Section 001) [aalessio@msu.edu](mailto:aalessio@msu.edu)
+<br>Professor, Computational Mathematics, Science & Engineering; Biomedical Engineering; Radiology
 
+**Sai Ravishankar** (Section 002) [ravisha3@msu.edu](mailto:ravisha3@msu.edu)
+<br>Assistant Professor, Computational Mathematics, Science & Engineering and Biomedical Engineering
 
-**Alexei Bazavov** (Section 002), [bazavov@msu.edu](mailto:bazavov@msu.edu)  
-Assistant Professor, Department of Computational Mathematics, Science & Engineering and Department of Physics & Astronomy
+**Rachel Frisbie** (Section 004) [salmonra@msu.edu](mailto:salmonra@msu.edu)
+<br>Postdoctoral Research Associate, Computational Mathematics, Science & Engineering
 
+**Michael Murillo** (Section 005) [murillom@msu.edu](mailto:murillom@msu.edu)
+<br>Professor, Computational Mathematics, Science & Engineering and Chemical Engineering
 
-**Ekaterina Rapinchuk** (Section 003), [merkurje@msu.edu](mailto:merkurje@msu.edu)  
-Assistant Professor, Department of Computational Mathematics, Science & Engineering and Department of Mathematics
-  
+**Jose Perea** (Section 006) [joperea@msu.edu](mailto:joperea@msu.edu)
+<br>Assistant Professor, Computational Mathematics, Science & Engineering and Dept of Mathematics
 
-**Jose Perea** (Section 004), [joperea@msu.edu](mailto:joperea@msu.edu)    
-Assistant Professor, Department of Computational Mathematics, Science & Engineering and Department of Mathematics
-
-
-**Min Chen** (Section 006), [chenmi22@msu.edu](mailto:chenmi22@msu.edu)  
-Assistant Professor, Department of Computational Mathematics, Science & Engineering and Department of Earth and Environmental Sciences
-
-
-**Tom Finzell** (Section 007), [finzellt@msu.edu](mailto:finzellt@msu.edu)  
-Postdoctoral Research Associate, Department of Computational Mathematics, Science & Engineering
-
-
-**Devin W. Silvia** (Section 008), [dsilvia@msu.edu](mailto:dsilvia@msu.edu)   
-Director of Undergraduate Studies and Teaching Specialist
-Department of Computational Mathematics, Science and Engineering
-
-
+**Tom Finzell** (Section 008), [finzellt@msu.edu](mailto:finzellt@msu.edu)  <br>Postdoctoral Research Associate, Department of Computational Mathematics, Science & Engineering
 
 ---  
 
 ### Teaching Assistants
 
-Ningyu Sha (Section 001), 
-[shaningy@msu.edu](mailto:shaningy@msu.edu)
+**Sarah Tymochko** (Section 001), [tymochko@msu.edu](mailto:tymochko@msu.edu)
 
-Rui Zhang (Section 002), 
-[zhangr60@msu.edu](mailto:zhangr60@msu.edu)
+**Avrajit Ghosh** (Section 002), [ghoshavr@msu.edu](mailto:ghoshavr@msu.edu)
 
-Sarah McGuire (Section 003), 
-[mcgui176@msu.edu](mailto:mcgui176@msu.edu)
+**Austin Gilbert** (Section 004), [gilbe290@msu.edu](mailto:gilbe290@msu.edu)
 
-Nathan Haut (Section 004), 
-[hautnath@msu.edu](mailto:hautnath@msu.edu)
+**Mike Pajkos** (Section 005), [pajkosmi@msu.edu](mailto:pajkosmi@msu.edu)
 
-Matthew Piekenbrock (Section 006), 
-[piekenbr@msu.edu](mailto:piekenbr@msu.edu)
+**Nathan Haut** (Section 006),[hautnath@msu.edu](mailto:hautnath@msu.edu)
 
-Emily Bolger (Section 007), 
-[bolgerem@msu.edu](mailto:bolgerem@msu.edu)  
+**Emily Bolger** (Section 008), [bolgerem@msu.edu](mailto:bolgerem@msu.edu)
 
 ---
 
 ### Learning Assistants
-Jennifer Abel (001), Adam Dion (001), Annalise Cornell (002), Sam Tracht (002), Carlie Couzens (003), Dylan Mather (003), Nicole Keller (004), Bella Said (004), Kevin Heim (006), Lexi McFall (006), Alice Krupczak (007), Madeline Martin (007), and Emily Jevarjian (008). 
+Section 1: Alice Krupczack, Emma Brann <br>
+Section 2: Jenn Abel, Adam Dion<br>
+Section 4: Gian Batayola, Jaclyn Frishcosy<br>
+Section 5: Jenn Abel, Sam Tracht<br>
+Section 6: Annalise Cornell, Madeline Martin<br>
+Section 8: Dylan Mather, Lexi McFall<br>
 
 ---  
 
