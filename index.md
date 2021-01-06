@@ -1,9 +1,7 @@
 
 # Welcome to Computational Modeling and Data Analysis I!
 
-## Course Details
-
-Road map for CMSE 201:
+## Road map for CMSE 201:
 
 *  [Course Syllabus](https://docs.google.com/document/d/e/2PACX-1vQ0JWyKjOL_hQaxXUm1MvqpROlCGncaVLkh7LV2gCrS3IK9N8-YsHbWEaRQKBNG4g7uZ5mmHkyA9lC6/pub) [[PDF version](/course_documents/CMSE201_Syllabus_Spring2021.pdf)]
 
