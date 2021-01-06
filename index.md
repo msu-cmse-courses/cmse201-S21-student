@@ -3,24 +3,24 @@
 
 ## Course Details
 
-
-Here are some quick links to important course content:  
+Road map for CMSE 201:
 
 *  [Course Syllabus](https://docs.google.com/document/d/e/2PACX-1vQ0JWyKjOL_hQaxXUm1MvqpROlCGncaVLkh7LV2gCrS3IK9N8-YsHbWEaRQKBNG4g7uZ5mmHkyA9lC6/pub) [[PDF version](/course_documents/CMSE201_Syllabus_Spring2021.pdf)]
 
-*  [Course Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vTUmj2CMawEU4T039udPLPozpT7ZHLB4ewp_UQhSUi9dijO8-9zuNsuI7jG7klAOqSrF3wvUfv9wsgX/pubhtml?gid=1088757719&single=true) [[PDF version](/course_documents/CMSE201-S21-Schedule.pdf)]
+*  [Course Schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vTUmj2CMawEU4T039udPLPozpT7ZHLB4ewp_UQhSUi9dijO8-9zuNsuI7jG7klAOqSrF3wvUfv9wsgX/pubhtml?gid=1088757719&single=true) [[PDF version](/course_documents/CMSE201-S21-Schedule.pdf)]
 
 *  [Office Hours Schedule](https://cmse.msu.edu/cmse201-office-hours)
 	* The Zoom room for TA/LA help room hours is [CMSE 201 Office Hours Zoom](https://msu.zoom.us/j/98424310993).
-	* Contact your course instructor for their Zoom room for office hours.  
-
-* [Software Setup Guide](/course_documents/SoftwareSetupGuide.pdf)
-
-Course assignments will be distributed via [Desire 2 Learn](https://d2l.msu.edu/).
-
-General course discussion and assistance will be held in the `#cmse201-s21-help` channel on the [CMSE Slack space](https://cmse-courses.slack.com). There are also section specific channels in the format of `#cmse201-###-s21` where "###" corresponds to the section number.
-
-Additional content for this course may also be uploaded from time to time to the GitHub repository accessible on the left hand side of this page, so if you're looking for additional information, take a peek over there!
+	* For course instructors, see the [office hours schedule](https://cmse.msu.edu/cmse201-office-hours) for zoom rooms for each instructor.  
+	
+* [Software Setup Guide](/course_documents/SoftwareSetupGuide.pdf). The key software/communication tools for this course are: 
+	* Zoom (for in-class learning and office hours)
+	* Jupyter Notebook (all assignments & quizzes will use this; available through Anaconda distrubtion and includes Python)
+	* Slack (for all course communication, see below)
+	* [Desire 2 Learn](https://d2l.msu.edu/) (Course assignments will be distributed and submitted via D2L)
+	* Google (for surveys and sharing class lectures, please use your @msu.edu Google accounts when using Google tools)
+	
+* General course discussion and assistance will be held in the `#cmse201-s21-help` channel on the [CMSE Slack space](https://cmse-courses.slack.com). There are also section specific channels in the format of `#cmse201-###-s21` where "###" corresponds to the section number.
 
 ---
 
