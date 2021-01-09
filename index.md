@@ -1,7 +1,7 @@
 
 # Welcome to Computational Modeling and Data Analysis I!
 
-## Road map for CMSE 201:
+## CMSE 201 Key Information
 
 *  [Course Syllabus](https://docs.google.com/document/d/e/2PACX-1vQ0JWyKjOL_hQaxXUm1MvqpROlCGncaVLkh7LV2gCrS3IK9N8-YsHbWEaRQKBNG4g7uZ5mmHkyA9lC6/pub) [[PDF version](/course_documents/CMSE201_Syllabus_Spring2021.pdf)]
 
@@ -16,7 +16,8 @@
 	* Jupyter Notebook (all assignments & quizzes will use this; available through Anaconda distrubtion and includes Python)
 	* Slack (for all course communication, see below)
 	* [Desire 2 Learn](https://d2l.msu.edu/) (Course assignments will be distributed and submitted via D2L)
-	* Google (for surveys and sharing class lectures, please use your @msu.edu Google accounts when using Google tools)
+	* Microsoft Forms (for surveys, please use your @msu.edu microsoft account when using Microsoft tools)
+	* [MediaSpace] (https://mediaspace.msu.edu/) for sharing recorded lectures
 	
 * General course discussion and assistance will be held in the `#cmse201-s21-help` channel on the [CMSE Slack space](https://cmse-courses.slack.com). There are also section specific channels in the format of `#cmse201-###-s21` where "###" corresponds to the section number.
 
