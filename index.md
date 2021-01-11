@@ -64,7 +64,7 @@
 ---
 
 ### Learning Assistants
-Section 1: Alice Krupczack, Emma Brann <br>
+Section 1: Alice Krupczak, Emma Brann <br>
 Section 2: Jenn Abel, Adam Dion<br>
 Section 4: Gian Batayola, Jaclyn Frishcosy<br>
 Section 5: Jenn Abel, Sam Tracht<br>
